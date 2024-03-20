@@ -1,0 +1,41 @@
+
+    /* Estilos gerais */
+body {
+    background-color: #fde9eb; /* Cor de fundo rosa claro */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para o cabeçalho */
+#header {
+    background-color: #ff7eb9; /* Cor de fundo rosa escuro */
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para a caixa de boas-vindas */
+#caixa-bem-vindo {
+    background-color: #ffd1dc; /* Cor de fundo rosa claro */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Estilos para o formulário de cadastro */
+#tela-cadastro {
+    background-color: #fff; /* Cor de fundo branco */
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+/* Estilos para o cartão de produto */
+.card {
+    background-color: #fff; /* Cor de fundo branco */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
